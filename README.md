@@ -39,7 +39,7 @@ Develop a WeatherForecastService to interact with the OpenWeatherMap API. Retrie
 ### Setup OpenWeatherMap API key
 We have used OpenWeatherMap API for retrieving weather details. To use OpenWeatherMap API we need to have api key and we need to add api key to rails credentials.
 
-Please refer https://openweathermap.org/appid for API key generation details.
+Please visit https://openweathermap.org/appid for API key generation details.
 
 After getting api keys we need to add api key to rails credentials using following command.
 
